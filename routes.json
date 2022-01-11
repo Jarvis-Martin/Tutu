@@ -1,0 +1,9 @@
+{
+  "/Tpfx/api/v1/indexs": "/indexs",
+  "/Tpfx/api/v1/nearbys": "/nearbys",
+  "/Tpfx/api/v1/messages": "/messages",
+  "/Tpfx/api/v1/profile": "/profile",
+  "/Tpfx/api/v1/login\\?username=*&password=*": "/profile?accountNumber=*&password=*",
+  "/Tpfx/api/v1/user\\?userId=": "/profile?accountNumber=",
+  "/Tpfx/api/v1/moments\\?userid=*": "/moments/?momentid=8&publisherNumber=*"
+}

@@ -1,0 +1,20 @@
+{
+  "short_name": "图图",
+  "name": "图图",
+  "icon": [  
+      {
+       "src": "./img/icons/logo.png",
+       "sizes": "57x57",   
+       "type": "image/png"       
+      },
+      {
+       "src": "./img/icons/android-chrome-512x512.png",
+       "sizes": "512x512",
+       "type": "image/png"
+      }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#002140",
+  "theme_color": "#002140"
+}
